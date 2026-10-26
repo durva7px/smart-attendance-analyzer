@@ -2,6 +2,8 @@
 
 A fully automated system that scrapes attendance data from the college website and provides insights on how many classes to attend or skip to maintain the required attendance percentage.
 
+<img width="400" height="225" alt="attendance analyzer" src="https://github.com/user-attachments/assets/f2926280-cd00-4432-b9a5-f4a55e13fd8b" />
+
 📌 Features
 
 ✅ Automated Attendance Scraping – Uses Selenium to log in and fetch attendance data.
