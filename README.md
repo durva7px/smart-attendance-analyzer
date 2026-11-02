@@ -1,25 +1,30 @@
-6th Sem Project Based Learning - Attendance Analysis
+# Smart Attendance Analysis (RCOEM)
 
-A fully automated system that scrapes attendance data from the college website and provides insights on how many classes to attend or skip to maintain the required attendance percentage.
+This is a project we built during out sixth semester as a part of Project Based Learning. A fully automated system that scrapes attendance data from the college website and provides insights on how many classes to attend or skip to maintain the required attendance percentage.
+
+#### Demo ⬇️
 
 <img width="400" height="225" alt="attendance analyzer" src="https://github.com/user-attachments/assets/f2926280-cd00-4432-b9a5-f4a55e13fd8b" />
 
-📌 Features
+## 📌 Features
 
-✅ Automated Attendance Scraping – Uses Selenium to log in and fetch attendance data.
+1. **Automated Attendance Scraping** – Uses Selenium to log in and fetch attendance data.
+2. **Smart Recommendation System** – Calculates how many classes a student can skip or needs to attend.
+3. **Web Extension & Website** - Available as both a web-application and browser extenstion
+4. **Default Login Credentials** - No separate account creation required. Just login with your existing JUNO credentials
 
-✅ Class Recommendation – Calculates how many classes a student can skip or needs to attend.
+### Extension Link 🔗
+https://chromewebstore.google.com/detail/kiponejpbjejdccpcebjkjahlacjnngh?utm_source=item-share-cb
 
-✅ Web Extension & Website - Available as a fully functional website
-
-✅ CGPA Predictor - Also includes an addtional CGPA predictor feature
-
+---
 
 🛠 Setup Instructions
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/SuzanTurner/Attendance-Analysis-PBL/tree/master.git
+```powershell
+git clone https://github.com/durva7px/smart-attendance-analyzer.git
+```
 
 
 2️⃣ Install Dependencies
@@ -60,15 +65,12 @@ Make sure the files are in the following format:
 python main.py
 ```
 
-This will:
+## How this works ⚡
 
-✔ Open the college website
-
-✔ Log in using the provided credentials
-
-✔ Scrape attendance details
-
-✔ Provide class recommendations
+✔ Log in with user credentials
+✔ Opens the college website via Selenium
+✔ Scrape attendance data
+✅ Recommendation algorithms provide a comprehensive analysis of your Attendance Situation
 
 
 
