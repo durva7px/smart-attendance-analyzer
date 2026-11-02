@@ -2,7 +2,7 @@
 
 This is a project we built during out sixth semester as a part of Project Based Learning. A fully automated system that scrapes attendance data from the college website and provides insights on how many classes to attend or skip to maintain the required attendance percentage.
 
-Built by -- [Durva Deshpand](https://github.com/durva7px)e & [Yadhnika Wakde](https://github.com/SuzanTurner)
+Built by — [Durva Deshpande](https://github.com/durva7px) & [Yadhnika Wakde](https://github.com/SuzanTurner)
 
 # Demo ⬇️
 
