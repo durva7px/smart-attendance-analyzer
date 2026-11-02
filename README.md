@@ -71,10 +71,10 @@ python main.py
 
 # How this works ⚡
 
-✔ Log in with user credentials
-✔ Opens the college website via Selenium
-✔ Scrape attendance data
-✅ Recommendation algorithms provide a comprehensive analysis of your Attendance Situation
+1. Log in with user credentials
+2. Opens the college website via Selenium
+3. Scrape attendance data
+4. Recommendation algorithms provide a comprehensive analysis of your Attendance Situation ✅
 
 
 
