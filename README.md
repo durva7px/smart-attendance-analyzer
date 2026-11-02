@@ -2,11 +2,13 @@
 
 This is a project we built during out sixth semester as a part of Project Based Learning. A fully automated system that scrapes attendance data from the college website and provides insights on how many classes to attend or skip to maintain the required attendance percentage.
 
-#### Demo ⬇️
+Built by -- [Durva Deshpand](https://github.com/durva7px)e & [Yadhnika Wakde](https://github.com/SuzanTurner)
+
+# Demo ⬇️
 
 <img width="400" height="225" alt="attendance analyzer" src="https://github.com/user-attachments/assets/f2926280-cd00-4432-b9a5-f4a55e13fd8b" />
 
-## 📌 Features
+# 📌 Features
 
 1. **Automated Attendance Scraping** – Uses Selenium to log in and fetch attendance data.
 2. **Smart Recommendation System** – Calculates how many classes a student can skip or needs to attend.
@@ -18,16 +20,16 @@ https://chromewebstore.google.com/detail/kiponejpbjejdccpcebjkjahlacjnngh?utm_so
 
 ---
 
-🛠 Setup Instructions
+# 🛠 Setup Instructions
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```powershell
 git clone https://github.com/durva7px/smart-attendance-analyzer.git
 ```
 
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 Make sure you have Python installed (preferably 3.9+). Then install the required dependencies:
 
@@ -36,12 +38,12 @@ pip install -r requirements.txt
 ```
 
 
-3️⃣ Download and Set Up ChromeDriver
+### 3️⃣ Download and Set Up ChromeDriver
 
 Download the Chromedriver folder in the repo. Make sure to enter the correct path in the python script.
 
 
-4️⃣ Check the files
+### 4️⃣ Check the files
 
 Make sure the files are in the following format:
 
@@ -59,13 +61,15 @@ Make sure the files are in the following format:
 │── README.md  
 ```
 
-5️⃣ Run the Project 🚀
+### 5️⃣ Run the Project 🚀
 
 ```powershell
 python main.py
 ```
 
-## How this works ⚡
+--- 
+
+# How this works ⚡
 
 ✔ Log in with user credentials
 ✔ Opens the college website via Selenium
